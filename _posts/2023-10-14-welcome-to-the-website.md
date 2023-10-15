@@ -6,7 +6,7 @@ subtitle: 欢迎，高洁而纯真的灵魂
 description:
 image: /Resources/Images/Posts/Christina.jpg
 optimized_image:
-category:
+category: intro
 tags:
     - welcome
 author: AnemoCider

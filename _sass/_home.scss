@@ -11,6 +11,21 @@
   &.no-padding {
     padding-top: 0;
   }
+
+  .category {
+    display: block;
+    height: rem(36px);
+    line-height: rem(36px);
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: rem(22px);
+    padding: 0 rem(15px);
+
+    a {
+      color: $accentDark;
+    }
+  }
+
 }
 
 .row {
@@ -91,19 +106,19 @@
     display: block;
   }
 
-  .category {
-    display: block;
-    height: rem(36px);
-    line-height: rem(36px);
-    text-transform: uppercase;
-    font-weight: bold;
-    font-size: rem(18px);
-    padding: 0 rem(15px);
+//   .category {
+//     display: block;
+//     height: rem(36px);
+//     line-height: rem(36px);
+//     text-transform: uppercase;
+//     font-weight: bold;
+//     font-size: rem(18px);
+//     padding: 0 rem(15px);
 
-    a {
-      color: $accentDark;
-    }
-  }
+//     a {
+//       color: $accentDark;
+//     }
+//   }
 
   .box-body {
     img {

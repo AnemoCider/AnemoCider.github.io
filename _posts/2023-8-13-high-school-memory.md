@@ -1,7 +1,7 @@
 ---
 date: 2023-08-13 22:10:28
 layout: post
-title: "High School Memory"
+title: 高中回忆
 subtitle: 回高中的碎碎念
 description: 
 image: /Resources/Images/Posts/HighSchoolPiano.jpg

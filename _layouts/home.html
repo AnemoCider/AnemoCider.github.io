@@ -53,13 +53,13 @@ layout: main
     {% endif %}
     <!-- Posts -->
     <!-- Filter Buttons -->
-        {% for category in site.categories %}
-        <div class="filter_tags">
-            <a href="{{ site.baseurl }}/category/{{ category | first | slugify }}">
-                {{ category | first }}
-            </a>
-        </div>
-        {% endfor %}
+    <!-- {% for category in site.categories %}
+    <div class="filter_tags">
+        <a href="{{ site.baseurl }}/category/{{ category | first | slugify }}">
+            {{ category | first }}
+        </a>
+    </div>
+    {% endfor %} -->
     <section id="grid" class="row flex-grid">
         {% for post in posts offset: offset %}
             <article class="box-item">

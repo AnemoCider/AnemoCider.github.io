@@ -1,14 +1,12 @@
 ---
 layout: main
 ---
-
 {% if site.paginate %}
     {% assign posts = paginator.posts | where_exp:"post","post.is_generated != true" %}
 {% else %}
     {% assign posts = site.posts | where_exp:"post","post.is_generated != true" %}
 {% endif %}
 
-<!-- Don't know the use of this... -->
 {% if site.show_hero and paginator == nil or paginator.page == 1 %}
     {% assign offset = 1 %}
 {% else %}
@@ -21,7 +19,7 @@ layout: main
     {% if site.show_hero and paginator == nil or paginator.page == 1 %}
         <!-- Hero -->
         {% assign featured = posts.last %}
-        {% for post in site.posts %}
+        {% for post in posts %}
             {% for tag in post.tags %}
                 {% if tag == "welcome" %}
                     {% assign featured = post %}
@@ -54,6 +52,15 @@ layout: main
     <!-- Posts -->
     <br/>
         {% for cat in site.categories %}
+            {% if page.url contains '/work'%}
+            {% assign found = false %}
+                {% for c in site.work_categories %}
+                    {% if c == cat[0] %}
+                        {% assign found = true %}
+                        {% break %}
+                    {% endif %}
+                {% endfor %}
+            {% if found != true %} {% continue %} {% endif %} {% endif %}
         <section id="grid" class="row flex-grid">
             <span class="category">
                 <a href="{{ site.baseurl }}/{{ site.categories_folder | default: 'category' }}/{{ cat[0] }}">
@@ -63,7 +70,7 @@ layout: main
         </section>
         <hr style="width:50%;text-align:left;margin-left:1.55em;margin-top: -8.5px;">
         <section id="grid" class="row flex-grid">
-            {% for post in cat[1]%}
+            {% for post in cat[1] %}
                 <article class="box-item">
                     <div class="box-body">
                         <a class="cover" href="{{ post.url | prepend: site.baseurl }}">

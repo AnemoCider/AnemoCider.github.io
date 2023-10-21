@@ -1,4 +1,5 @@
 # Site Settings
+work_categories: [intro, game&cg]
 name: AnemoCider 风元素果酒
 title: AnemoCider's Personal Blog
 description: This is the personal blog & website of AnemoCider.
@@ -8,6 +9,8 @@ show_hero: true
 menu:
   - title: Home
     url: /
+  - title: Work
+    url: /work
   - title: About
     url: /about
   - title: Contact

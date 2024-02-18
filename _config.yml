@@ -1,6 +1,6 @@
 # Site Settings
 work_categories: [intro, graphics]
-name: AnemoCider 风元素果酒
+name: AnemoCider
 title: AnemoCider's Personal Blog
 description: This is the personal blog & website of AnemoCider.
 tags:
@@ -103,4 +103,4 @@ exclude: [
 ]
 
 # Theme
-version: v3.1.2
+version: v1.0

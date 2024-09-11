@@ -6,8 +6,9 @@ subtitle:
 description:
 image: /Resources/Images/Posts/DarkSouls3.jpeg
 optimized_image:
-category:
+category: video game
 tags:
+    - music
     - video game
 author:
 paginate: false

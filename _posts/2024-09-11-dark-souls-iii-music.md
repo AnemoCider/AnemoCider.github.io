@@ -24,15 +24,15 @@ MUSIC 460 blog
 
 ## Introduction
 
-Dark Souls III is one of my first AAA video games. It's an action role-playing game, where the player will travel through a dying world, beat powerful enemies, and finally decide the destiny of the world. The overall feeling is desparate - the main character is lonely and weak, while most of your enemies were once great heros, and now become corrupted or insane. What's more, you will eventually discover that the world, once grand and prosperous, is now doomed to die.
+Dark Souls III is one of my first AAA video games. It's an action role-playing game, where the player will travel through a dying world, beat powerful enemies, and finally decide the destiny of the world. The vide is pretty grim - the main character is lonely and vulnerable, while most of your enemies were once mighty heros who have now become corrupted or deranged. What's more, you will eventually discover that what was once a thriving world is now on the verge of destruction.
 
-Most pieces from the soundtrack are for Boss fight, and all stick to the style of the game - dark, intense, epic, and sometimes even desparate. Typical elements within these pieces are the violin (including cello), the brass, the church bell, and chorus.
+Most of the soundtrack is designed for boss fights, and shares the game's dark, intense and epic tone. You'll often hear elements like violin (and cello), brass, church bell, and chorus.
 
 ## Immersive storytelling with the Music
 
-For role-playing games like Dark Souls III, immersive storytelling is an important part of the game experience. To achieve this goal, designers would usually create the atmosphere through various approaches, and the music always has a crucial effect on it. 
+For role-playing games like Dark Souls III, immersive storytelling is an important part of the game experience, and music is crucial for creating a proper atmosphere for that.
 
-From my gameplay experience with Dark Souls III, the tracks themselves are excellent storytellers. Let's take the boss fight pieces as an example, as they comprise the majority of the soundtrack. In the first place, all the boss fights are intense and take place within the dark and desperate world, so the pieces usually give the player some pressure. Besides this, each boss fight tends to have a specific style, and the music that accompanies would develop uniquely, bringing different feelings. Due to such variety, even without seeing the boss himself, the player should already have a sense of what the fight will be like. Besides this, all the pieces still follow the uniform style across the game, such that the player would also feel that a fierce battle is unraveling.
+From my gameplay experience with Dark Souls III, the tracks themselves are excellent storytellers. Let's take the boss fight pieces as an example, as they comprise the majority of the soundtrack. In the first place, all the boss fights are intense and take place within the dark and desperate world, so the pieces usually give the player some pressure. Besides this, each boss fight tends to have a specific style, and the music that accompanies would develop uniquely, bringing different feelings. Due to such variety, even without seeing the boss himself, the player should already have a sense of what the fight will be like. Besides this, all the pieces still follow the uniform style across the game, so the player would also feel that a fierce battle is unraveling.
 
 When fighting with a giant boss, the music conveys a powerful sense of urgency and tension, with stirring bass vocals and drum beats, and incessant violin and soprano that comes in a bit later. 
 
@@ -97,11 +97,11 @@ Till this point, the melody is relatively calm and peaceful. However, as the vio
 
 1:03 to 1:28
 
-The cello and the church bell work together, further unfolding the story and build up towards the next climax.
+The cello and the church bell work together, further unfolding the story and building up towards the next climax.
 
 1:29 to 1:55
 
-The tune suddenly turns towards the bass part, which becomes anxious and intense. It feels like the boss's attack becomes intense, and the player is making all attempts to fight back. Then the saprano joins and pushes the music to the climax again, which feels like the boss becomes insane, 
+The bass part suddenly appears and takes control of the melody, creating an anxious atmosphere. It feels like the boss's attack becomes intense, and the player is making all attempts to fight back. Then the saprano joins and pushes the music to the climax again, which feels like the boss becomes insane, 
 
 1:55 to 2:45 (the end)
 

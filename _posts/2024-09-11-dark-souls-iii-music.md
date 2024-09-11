@@ -6,7 +6,7 @@ subtitle:
 description:
 image: /Resources/Images/Posts/DarkSouls3.jpeg
 optimized_image:
-category: video game
+category:
 tags:
     - music
     - video game
@@ -17,6 +17,10 @@ paginate: false
 # Storytelling in video game music
 
 **An analysis of Dark Souls III soundtrack.**
+
+Author: Junwen Yu
+
+MUSIC 460 blog
 
 ## Introduction
 

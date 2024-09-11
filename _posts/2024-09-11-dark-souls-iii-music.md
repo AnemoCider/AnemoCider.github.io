@@ -39,7 +39,7 @@ On the other hand, some enemies tend to be mysterious, elegant, but dangerous st
 
 Dancer of the Boreal Valley, 1:36 to 1:56
 
-<href><iframe width="560" height="315" src="https://www.youtube.com/embed/bJJ0Et4FtAg?si=OC0x8bt7U4w53kVd&amp;start=96" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe><href>
+<href><iframe width="560" height="315" src="https://www.youtube.com/embed/bJJ0Et4FtAg?si=OC0x8bt7U4w53kVd&amp;start=96" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></href>
 
 There are heroes that have been trapped by their task for decades, and as a player I will eventually end their incessant journey. In this battle, the music somewhat resembles a requiem, with the bass vocal telling the enemies' story in a gloomy mood, and saprano and the violin mourning their harsh life. It was not an easy fight, and I could have used some tricks to make the battle way smoother. However, as soon as I heard the music, I decided to fight in the traditional way, as a respect to the heroic enemies.
 

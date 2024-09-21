@@ -14,95 +14,54 @@ author:
 paginate: false
 ---
 
-# Storytelling in video game music
-
-**An analysis of Dark Souls III soundtrack.**
-
-Author: Junwen Yu
-
-MUSIC 460 blog
-
-## Introduction
-
-Dark Souls III is one of my first AAA video games. It's an action role-playing game, where the player will travel through a dying world, beat powerful enemies, and finally decide the destiny of the world. The vide is pretty grim - the main character is lonely and vulnerable, while most of your enemies were once mighty heros who have now become corrupted or deranged. What's more, you will eventually discover that what was once a thriving world is now on the verge of destruction.
-
-Most of the soundtrack is designed for boss fights, and shares the game's dark, intense and epic tone. You'll often hear elements like violin (and cello), brass, church bell, and chorus.
-
-## Immersive storytelling with the Music
-
-For role-playing games like Dark Souls III, immersive storytelling is an important part of the game experience, and music is crucial for creating a proper atmosphere for that.
-
-From my gameplay experience with Dark Souls III, the tracks themselves are excellent storytellers. Let's take the boss fight pieces as an example, as they comprise the majority of the soundtrack. In the first place, all the boss fights are intense and take place within the dark and desperate world, so the pieces usually give the player some pressure. Besides this, each boss fight tends to have a specific style, and the music that accompanies would develop uniquely, bringing different feelings. Due to such variety, even without seeing the boss himself, the player should already have a sense of what the fight will be like. Besides this, all the pieces still follow the uniform style across the game, so the player would also feel that a fierce battle is unraveling.
-
-When fighting with a giant boss, the music conveys a powerful sense of urgency and tension, with stirring bass vocals and drum beats, and incessant violin and soprano that comes in a bit later. 
-
-Yhorm the Giant, 2:18 to 2:32
-
-<href><iframe width="560" height="315" src="https://www.youtube.com/embed/P7IyeLi3OeQ?si=u7muGaycXWfHjM9j&amp;start=138" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></href>
-
-On the other hand, some enemies tend to be mysterious, elegant, but dangerous still, which is accompanied by an ethereal and haunting music. The soprano and violin interwine in a dissonant way, and the distant drums and sound effect of the enemy's footsteps make the music even more terrifying.
-
-Dancer of the Boreal Valley, 1:36 to 1:56
-
-<href><iframe width="560" height="315" src="https://www.youtube.com/embed/bJJ0Et4FtAg?si=OC0x8bt7U4w53kVd&amp;start=96" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></href>
-
-There are heroes that have been trapped by their task for decades, and as a player I will eventually end their incessant journey. In this battle, the music somewhat resembles a requiem, with the bass vocal telling the enemies' story in a gloomy mood, and saprano and the violin mourning their harsh life. It was not an easy fight, and I could have used some tricks to make the battle way smoother. However, as soon as I heard the music, I decided to fight in the traditional way, as a respect to the heroic enemies.
-
-Abyss Watchers, 1:37 to 1:53
-
-<href><iframe width="560" height="315" src="https://www.youtube.com/embed/0Gs2Y7mt5Pk?si=s_63aBAOHONypCf0&amp;start=97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></href>
-
-Towards the end of the game, instead of feeling relieved, I started to question whether the whole journey meant anything: after defeating so many powerful and heroic enemies, am I truly ready to take on their responsibilities and save this desperate world? 
-
-And then it comes to the final bass fight. The gameplay itself isn't quite unique, but the music renders it a completely special mood. In the first stage, the bass vocal leads a grand movement, which encourages the player to devote all himself into the tough battle with resolution. However, in the second stage, the piano part emerges and keeps playing a gentle and dim melody. Eventually the exciting vocal disappears, leaving the piano lonely towards the end, which exactly describes what the player would feel after this battle.
-
-Soul of Cinder, 1:55 to 2:40
-
-<href><iframe width="560" height="315" src="https://www.youtube.com/embed/dXcwGZV5Or4?si=G0boZQFcmekGCC6r&amp;start=115" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></href>
+# Immersive Storytelling Through Music
+– Dark Souls III Soundtrack
 
 
-I have mentioned the two stage nature of this boss fight. It is a typical practice for video game music to transit to a different style across stages of a battle. Thus, the player has gained some control over the music, and such interaction also helps with the immersive storytelling a lot, for the atmosphere is built upon the music, and now the music transits under the player's control, which brings the player further into the game world.
+## The Game
 
-Dark Souls III is no short of such transitions, and here are just two of my favorite examples:
+Imagine that you wake up in an abandoned graveyard. Looking around, thick smoke from raging fires shrouds the entire sky, and the gloomy sunlight could barely penetrate through it. A sound in your mind tells you that the fire that used to sustain the world is now dying out. And you, as the unkindled, with no fame or power, have to start off a journey across this apocalyptic, hostile world and beat the greatest figures of the age - the King, Pontiff, Saint, and heroes, in order to seize their power and turn it into fuel. Then, you will determine the fate of the world – either to slightly delay the inevitable doom, or end the world once and for all.
 
-Champion's Gravetender, 1:43 to 2:13
+As my first AAA game, Dark Souls III really stunned me with its unique, dark, imaginative, and intimidating art style. What amazes me the most is its restrained narration: the key information is often hidden at unnoticed corners. As a reckless explorer, however, I usually focused only on the main storyline. Therefore, it was commonplace for me to step into some room and find in surprise that a giant I had never heard of was charging straight at me, waving his gigantic ax – and I had no idea what the point of this battle was.
 
-<href><iframe width="560" height="315" src="https://www.youtube.com/embed/lW87_hPNhEQ?si=bxW-mSmqH77nJKzY&amp;start=103" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></href>
+Nevertheless, as a role-playing game, Dark Souls III still did a great job in immersive storytelling. One of the crucial contributing elements is the soundtrack. Oftentimes, the music itself is already an excellent storyteller. When I played the game the first time, the music could always captivate me as soon as it began and immerse me in the scenes, even without knowing the story.  Now that I’ve played it several times, I feel that the music could evoke the exact feelings I had while playing, and I don’t even have to enter the gameplay part – just listening to the soundtrack achieves the same thing.
 
-Slave Knight Gael, 1:31 to 2:23
+## Atmosphere and Storytelling Music
 
-<href><iframe width="560" height="315" src="https://www.youtube.com/embed/71XgFf288KE?si=ue44m5RJXVvH79vx&amp;start=91" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></href>
+The way how the music achieves this is by effectively creating atmosphere. As a feature of its unique narration, Dark Souls III has barely any explicit in-game guidance, like written instructions or an in-game narrator. Instead, it’s always the atmosphere that urges me to take certain actions. One of the most memorable examples was when I spent tens of hours battling a single boss. For several times I was on the verge of giving up and considering just “cheese” the boss. However, whenever I failed and restarted once again, as the epic music roared across the battlefield, I would feel courage surging through my body and the sword in my hand.
 
-## The main theme
+Although every piece of music in the game aligns perfectly with the game’s overall dark, epic style, each one also has its unique listening experience. For this boss specifically, the first phase focuses on elements of the storm and the rain, and what amazes me is that you can literally sense them from the music.
 
-I've talked about so many great boss fight pieces, and how they contributed to the storytelling. However, my favorite piece is actually the main theme. The reason is that it perfectly describes and summarizes what I feel from this game. It might be a little exaggerated, but now, as an experienced player, I really feel that I don't have to enter the game anymore - I could get the same thing by just lingering on the main menu and listening to the main theme over and over again. The music itself is a story, and it accurately elicits the proper feelings. 
+[Nameless King OST](https://www.youtube.com/watch?v=j39wEDr2CZg&feature=youtu.be)
 
-What's more, it has been my wake-up music ever since I completed the game. Everyday I wake up as if I were to fight against the toughest enemies in the world.
+At the very beginning (0:00 to 0:10), the storm is gathering, as indicated by the pulsing rhythm. Then you hear the storm approaching - the continuous, descending notes under the main melody (0:26 to 0:30). Suddenly the storm ceases for a while, giving its way to the aggressive rain that abruptly pours down, as can be heard from the harpsichord (1:00 to 1:08). When it comes to the second phase (2:02), the melody becomes majestic and regal, as if the king stepped through the storm and the rain - and that’s how I realized I should fight back in a dignified way to show my respect.
 
-<href><iframe width="560" height="315" src="https://www.youtube.com/embed/ch6I15iBliE?si=9-Arkp8SjYzCxUnL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></href>
+## Interaction and Storytelling Music
 
-0:00 to 0:13
+Atmosphere is not the only thing that consists of effective storytelling. Interaction is another part that would immerse the player into the game world. Although Dark Souls III doesn’t let the player control the music in any explicit way, the transition in the boss battle’s soundtrack still impresses me. The process was always similar – when I dealt enough damage to the boss, the music would suddenly transition to a possibly different style, which could always reflect the shift in the battle’s style. Such an experience was always surprising and, sometimes, even a bit frightening.
 
-At the very beginning, we hear a church bell. This is interesting, because in the game, our character would also be awaken by a toll of the bell. It is a clear delineation of the boundary between the reality and the game world: from this point onwards, the player starts off a grand adventure.
+For example, in a boss fight, I was dueling against a warrior. At some point, he suddenly raises his sword up to the sky, and the violin makes a piercing anger, together with a wolf howl (1:50). I didn’t last long under the wolf’s attack, mostly because I was too thrilled due to the sudden transition in the music.
 
-The bell is followed by the mezzo-soparno. The vocal stays at each key for seconds, which feels like the flat narration of the context, like the "Once upon a time" stuff found at the beginning of traditional adventure stories.
+[Champion's Gravetender - 1:50](https://youtu.be/lW87_hPNhEQ?feature=shared&t=110)
 
-0:14 to 0:28
+Despite its thrilling effect, the violin is a perfect fit for the transition. Its high pitch strikes a contrast with the previous, which clearly marks a different phase of the boss. In addition, it resembles the soprano in the music and the howl in the game so well that it brings a sort of unusual harmony.
 
-Then the narration continues, but this time the brass start to come in at the deep layer, while the saprano leads the melody in the higher range, which gradually unfolds the world and the story.
+For another example, in a boss fight in the DLC, the player was against a weakened soldier. As I emptied his health bar, the game visuals turned dark and the slow, low-pitched music ceased (1:48). I thought this was the end of the battle, until the music suddenly burst, and the soprano sang at an extremely high pitch, and the boss, who seemed to be tired during the first phase, rushed rapidly towards me, waving his long sword, and stripped me into pieces.
 
-0:28 to 1:02
+[Gael the Slave Knight - 1:48](https://youtu.be/71XgFf288KE?feature=shared&t=108)
 
-Till this point, the melody is relatively calm and peaceful. However, as the violin joins, it quickly turns into a mixture of epic and sad feeling. What I especially love about this part is the smooth transition between the violin and the saprano. What I feel is that the saprano builds up to the climax of the music with great intensity, and the violin part serves as a buffer period so that the emotions won't burst too rapidly.
+Interactions like this added much fun to the game and gave me an illusion as if I had been actually part of the story.
 
-1:03 to 1:28
+## The Final Battle Music 
 
-The cello and the church bell work together, further unfolding the story and building up towards the next climax.
+Bosses in the game tend to remain silent. However, the music is enough to make me resonate with them and even bring me to tears.
 
-1:29 to 1:55
+[Soul of Cinder](https://youtu.be/dXcwGZV5Or4?feature=shared)
 
-The bass part suddenly appears and takes control of the melody, creating an anxious atmosphere. It feels like the boss's attack becomes intense, and the player is making all attempts to fight back. Then the saprano joins and pushes the music to the climax again, which feels like the boss becomes insane, 
+In the final battle, my opponent was the soul of all lords of cinder – the heroes who had founded and continued the era. During the first phase, with the deep, resonant bass vocal intoning the epic, the story of each heroic foe kept popping up in my mind, and I knew I was to beat them as always. Then the bass exited, while the drum became even more powerful and the brass section began to ascend in pitch, creating a more tense atmosphere (1:58 to 2:14). While I was expecting a burst during the phase transition, the piano notes appeared – delicate and gentle, completely unobtrusive within the melody – but they were so clear and sad as if striking my soul. Although the bass came into an outburst, more powerful than ever, I realized that this time the music was the epilogue of the heroes. Eventually the brass turned dim, the drums became distant and the vocals faded away. All of a sudden, what was left was a requiem played by the piano and the violin alone.
 
-1:55 to 2:45 (the end)
+I’ve played many video games, and it was not unusual for me to feel a sense of loss after the ending. However, the final battle of Dark Souls III was undoubtedly the most impressive. Whenever I recall it, the melody would drift through my mind, and I would once again feel the deep resonance. The music is a storyteller, not only about the game itself, but also about the player’s experience, both during and after the game. As the prolongation of the last note gradually diminished, memories during the game would flow through my thoughts – challenges overcome, companions met, and heroes taken down. Eventually all of such were burned away together with the last cinder in the world, and the game screen faded into darkness.
 
-The reflection after the boss fight. The lonely solo of the violin, and later the saprano, forms a strong contrast with the epic or intense parts. It expresses the feeling of extreme sadness, which sounds like the despair of being unable to beat the enemies, and more importantly, the sense of emptiness that follows. I believe it's such a feeling that lasts so long after after I complete this game, making the music an unforgetabble piece to me.
+## Conclusion
+
+The Dark Souls III soundtrack has deeply impressed me, so about two years ago I set the main theme as the music of my wake-up alarm. Sometimes it woke me up, and I felt as if I were to embark on the grand adventure in the game again. Although I don’t really play the game quite often these days, I would still frequently listen to the soundtrack. As always, the vocals would remind me of the heroic foes and their stories, the piano would evoke a sense of sadness in me, and the church bell, which symbolizes the beginning and ending of the game, would take me back to the curtain call, when I brought the Age of Fire to an end.

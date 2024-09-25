@@ -16,9 +16,9 @@ paginate: false
 
 ## Project
 
-Downloadables:
+Downloadables (The Legend of Zelda (Unity Remaster)):
 
-[https://cdn.destructoid.com//ul/317824-zelda%20memes.jpg](The Legend of Zelda (Unity Remaster))
+https://drive.google.com/file/d/1thfFcPSA5NB25JqMlbgjRrlPigIFuF3o/view?usp=drive_link
 
 Developers: Junwen Yu & Yirui Miao
 
@@ -48,8 +48,3 @@ Contributions:
     - Collectables
     - Bomb implementation
     - Audio system
-
-
-## The game
-
-<iframe src="../Resources/WebGL/Zelda494/index.html" width="800" height="600" frameborder="0" allowfullscreen></iframe>

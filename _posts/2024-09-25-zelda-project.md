@@ -16,6 +16,8 @@ paginate: false
 
 ## Project
 
+Downloadables:
+
 [https://cdn.destructoid.com//ul/317824-zelda%20memes.jpg](The Legend of Zelda (Unity Remaster))
 
 Developers: Junwen Yu & Yirui Miao
@@ -46,3 +48,8 @@ Contributions:
     - Collectables
     - Bomb implementation
     - Audio system
+
+
+## The game
+
+<iframe src="../Resources/WebGL/Zelda494/index.html" width="800" height="600" frameborder="0" allowfullscreen></iframe>

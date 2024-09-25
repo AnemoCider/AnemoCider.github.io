@@ -16,9 +16,11 @@ paginate: false
 
 ## Project
 
-Downloadables (The Legend of Zelda (Unity Remaster)):
+Downloadables ():
 
-https://drive.google.com/file/d/1thfFcPSA5NB25JqMlbgjRrlPigIFuF3o/view?usp=drive_link
+[The Legend of Zelda (Unity Remaster)](https://drive.google.com/file/d/1thfFcPSA5NB25JqMlbgjRrlPigIFuF3o/view?usp=drive_link)
+
+You may also play it at [itch.io](https://anemocider.itch.io/zelda-remaster)
 
 Developers: Junwen Yu & Yirui Miao
 

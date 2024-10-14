@@ -4,7 +4,7 @@ layout: post
 title: "Speed of Light"
 subtitle:
 description:
-image:
+image: /Resources/Images/Posts/SpeedOfLight.jpg
 optimized_image:
 category: gameDev
 tags:

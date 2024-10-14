@@ -6,7 +6,7 @@ subtitle:
 description:
 image: /Resources/Images/Posts/Zelda494.png
 optimized_image:
-category:
+category: gameDev
 tags:
 author:
 paginate: false

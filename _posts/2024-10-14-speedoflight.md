@@ -1,7 +1,7 @@
 ---
 date: 2024-10-14 03:48:07
 layout: post
-title: "SpeedOfLight"
+title: "Speed of Light"
 subtitle:
 description:
 image:

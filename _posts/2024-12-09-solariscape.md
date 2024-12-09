@@ -4,7 +4,7 @@ layout: post
 title: "Solariscape"
 subtitle:
 description:
-image: /Resources/Images/Posts/Solariscape/SolarSystem.PNG
+image: /Resources/Images/Posts/Solariscape/SolarSystem.png
 optimized_image:
 category: gameDev
 tags:
